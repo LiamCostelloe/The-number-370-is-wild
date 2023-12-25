@@ -1,0 +1,18 @@
+Forgive me for any typos as I've been awake all night.
+
+I'll list some of the strange propertys I have found so far.
+
+To start 370 / 3 is 123.3333333, 370370 / 3 is 123456.6667 and 370370370 / 3 = 1234567890.
+
+If you divide a numbers like 1111111111 by 370 it will return a sequence, seemingly it being even is dependant on having even amount of floating points.
+
+In the case of 1111111111 its 3003003003.
+
+Here is 1-10, for ease I will only state the number then the result and I will space the result so its easier to see.
+
+1: 300 300 300 3
+2:
+3:
+4:
+5:
+6:
