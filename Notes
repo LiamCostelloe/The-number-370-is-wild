@@ -4,3 +4,8 @@ There a connection between 370 and 3, 9. Not 100 percent sure yet but I will fig
 
 Dividing 1111111111 by 3 creates a pattern of 370 370 370 3.
 Dividing 3333333333 by 9 creates a pattern of 370 370 370 3. 
+
+Yeah I was right I found a stange pattern with this, its not perfect and I am far to tired to
+properly process the data and refine the algoritm. I'm far from finished. I'll drop the raw data I'm working on.
+
+The data was achived with  ((x / 370) / 0.3) I'm sure I can teak it a lot more but this is far a one night will take me.
